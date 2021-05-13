@@ -1,0 +1,8 @@
+G:\Src\ZjhServer\MyServer\Protocol\bin\Debug\Protocol.dll
+G:\Src\ZjhServer\MyServer\Protocol\bin\Debug\Protocol.pdb
+G:\Src\ZjhServer\MyServer\Protocol\obj\Debug\Protocol.csprojAssemblyReference.cache
+G:\Src\ZjhServer\MyServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+G:\Src\ZjhServer\MyServer\Protocol\obj\Debug\Protocol.dll
+G:\Src\ZjhServer\MyServer\Protocol\obj\Debug\Protocol.pdb
+F:\unity dm\Fried honeysuckle\Assets\Scripts\Protocol.dll
+F:\unity dm\Fried honeysuckle\Assets\Scripts\Protocol.pdb

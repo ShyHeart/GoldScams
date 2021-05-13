@@ -1,0 +1,6 @@
+G:\Src\ZjhServer\MyServer\MyServer\obj\Debug\MyServer.csprojAssemblyReference.cache
+G:\Src\ZjhServer\MyServer\MyServer\obj\Debug\MyServer.csproj.CoreCompileInputs.cache
+G:\Src\ZjhServer\MyServer\MyServer\bin\Debug\MyServer.dll
+G:\Src\ZjhServer\MyServer\MyServer\bin\Debug\MyServer.pdb
+G:\Src\ZjhServer\MyServer\MyServer\obj\Debug\MyServer.dll
+G:\Src\ZjhServer\MyServer\MyServer\obj\Debug\MyServer.pdb
